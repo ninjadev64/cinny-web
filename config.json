@@ -4,5 +4,10 @@
     "chat.amansprojects.com",
     "matrix.org"
   ],
-  "allowCustomHomeservers": true
+  "allowCustomHomeservers": true,
+  "hashRouter": {
+    "enabled": false,
+    "basename": "/"
+  }
 }
+
